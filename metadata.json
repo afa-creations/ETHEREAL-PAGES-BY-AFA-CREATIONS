@@ -1,0 +1,7 @@
+{
+  "name": "Ethereal Pages by AFA Creations",
+  "description": "A minimalist personal portfolio for poetry, philosophy, and history featuring AI-generated aesthetic backgrounds and academic bibliography tools.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
